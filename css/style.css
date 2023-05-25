@@ -1,0 +1,22 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1{
+    border: rgb(3, 25, 228) dashed 5px;
+    margin: 30px 0; 
+    padding: 30px;
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(3, 25, 228);
+    color: rgb(255, 255, 255);
+    padding: 20px
+}
+
+.Produto-item{
+    color: rgb(8, 114, 212);
+    font-weight: bold;
+}
